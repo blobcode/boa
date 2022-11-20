@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["GeneratorFunction","The internal representation on a `Generator` object."]]};
